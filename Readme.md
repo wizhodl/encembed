@@ -31,7 +31,7 @@ This will encrypt `plaintext_file.txt`, and make a variable called `plaintext` a
 func main(){
     log.Println(string(plaintext))
 }
-//go:generate go run github.com/c-sto/encembed -i plaintext_file.txt -decvarname plaintext
+//go:generate go run github.com/wizhodl/encembed -i plaintext_file.txt -decvarname plaintext
 ```
 
 todo: better readme

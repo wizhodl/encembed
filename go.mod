@@ -1,4 +1,4 @@
-module github.com/c-sto/encembed
+module github.com/wizhodl/encembed
 
 go 1.17
 
